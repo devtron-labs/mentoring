@@ -1,2 +1,2 @@
-# mentoring
+# Mentoring
 Resources for Google Summer of Code 2025
